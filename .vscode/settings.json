@@ -1,0 +1,7 @@
+{
+    "github-enterprise.uri": "",
+    "git.enableSmartCommit": true,
+    "git.mergeEditor": true,
+    "git.enableCommitSigning": true,
+    "git.branchRandomName.enable": true
+}
